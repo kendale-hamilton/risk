@@ -1,0 +1,42 @@
+Alaska, NA
+Alberta, NA
+Northwest Territory, NA
+Ontario, NA
+Quebec, NA
+Greenland, NA
+Western US, NA
+Eastern US, NA
+Central America, NA
+Venezuela, SA
+Peru, SA
+Argentina, SA
+Brazil, SA
+North Africa, Africa
+Egypt, Africa
+East Africa, Africa
+Congo, Africa
+South Africa, Africa
+Madagascar, Africa
+Iceland, Europe
+Great Britain, Europe
+Western Europe, Europe
+Scandinavia, Europe
+Ukraine, Europe
+Northern Europe, Europe
+Southern Europe, Europe
+Middle East, Asia
+Afghanistan, Asia
+Ural, Asia
+Siberia, Asia
+India, Asia
+China, Asia
+Mongolia, Asia
+Irkutsk, Asia
+Yakutsk, Asia
+Kamchatka, Asia
+Japan, Asia
+Siam, Asia
+Indonesia, Australia
+New Guinea, Australia
+Western Australia, Australia
+Eastern Australia, Australia
